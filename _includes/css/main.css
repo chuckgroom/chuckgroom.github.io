@@ -10,6 +10,15 @@ body {
 
 ul, p {
     font-size: 20px;
+    padding-bottom: 14px;
+}
+
+ul:last-of-type, p:last-of-type {
+    padding-bottom: 2px;
+}
+
+li {
+    padding-bottom: 6px;
 }
 
 p.small {
