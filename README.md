@@ -17,3 +17,4 @@ bundle exec jekyll serve
 docker build -t chuckgroom:latest .
 docker run --mount type=bind,source="$(pwd)",target=/bio -p 4000:4000 --name chuckbio chuckgroom:latest
 ```
+
