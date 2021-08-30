@@ -518,3 +518,16 @@ footer .footer-below {
         overflow: hidden!important;
     }
 } 
+
+.testimonial {
+    margin-top: 3em;
+}
+
+div.client-logo {
+    text-align: center;
+}
+
+.client-logo img {
+    height: 85px;
+    margin-bottom: 1em;
+}
